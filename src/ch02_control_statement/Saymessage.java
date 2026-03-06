@@ -1,4 +1,4 @@
-package ch2_control_statement;
+package ch02_control_statement;
 
 /*
 이름 : Saymessage

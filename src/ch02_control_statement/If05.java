@@ -1,4 +1,4 @@
-package ch2_control_statement;
+package ch02_control_statement;
 //int su = 4 ;
 //su가 7의 배수이면 제곱 값을 출력하고, 7의 배수 아니면 3을 더하는 프로그램 작성
 //양자택일(if~else)

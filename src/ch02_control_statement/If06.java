@@ -1,4 +1,4 @@
-package ch2_control_statement;
+package ch02_control_statement;
 //int month = 3 ;
 //if 구문을 사용하여 4계절 중 해당 계절 정보 출력하기
 //다중 택일(if~else if)

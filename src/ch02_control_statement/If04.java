@@ -1,4 +1,4 @@
-package ch2_control_statement;
+package ch02_control_statement;
 // int su = 4;
 // su가 3의 배수이면 출력하는 프로그램 작성
 // 단순 if
