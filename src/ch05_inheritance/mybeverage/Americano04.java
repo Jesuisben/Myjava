@@ -1,5 +1,5 @@
 package ch05_inheritance.mybeverage;
-//
+
 public class Americano04 extends Beverage04 {
     private double waterAmount; // 투입하는 물의 양
 

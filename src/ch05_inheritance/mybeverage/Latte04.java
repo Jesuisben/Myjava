@@ -1,5 +1,5 @@
 package ch05_inheritance.mybeverage;
-//
+
 public class Latte04 extends Beverage04 {
     private String milkType; // 우유의 타입
 

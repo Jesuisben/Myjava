@@ -1,5 +1,5 @@
 package ch05_inheritance.mybeverage;
-//
+
 public class Beverage04 {
     private String name; // 음료 이름
     private double price; // 단가

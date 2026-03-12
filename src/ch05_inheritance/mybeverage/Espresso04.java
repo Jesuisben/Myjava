@@ -1,5 +1,5 @@
 package ch05_inheritance.mybeverage;
-//
+
 public class Espresso04 extends Beverage04 {
     private int shotCount; // 샷 추가 갯수
 
