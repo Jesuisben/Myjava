@@ -4,6 +4,7 @@ public class Array01 {
     static void main(String[] args) {
         // bts 맴버들을 new 연산자를 사용하여 풀어 보세요.
         String[] bts = new String[7];
+
         bts[0] ="진";
         bts[1] ="뷔";
         bts[2] ="정국";
@@ -16,6 +17,13 @@ public class Array01 {
         for (int i = 0; i < bts.length; i++) {
             System.out.println(bts[i]);
 
+        }
+
+        // 선입 선출(FIFO), 반대 LIFO(프링글스)
+        System.out.println("향상된 for 구문");
+        // for(타입 단수이름 : 복수이름){
+        for(String item : bts){
+            System.out.println(item);
         }
 
     }

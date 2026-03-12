@@ -28,5 +28,10 @@ public class MyArr01 {
         }
 
 
+        System.out.println("향상된 for 구문");
+        for(int item : arr){
+            System.out.println(item);
+        }
+
     }
 }
